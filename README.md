@@ -13,16 +13,16 @@
 
 | Category | Description |
 |-----------|--------------|
-| [Keyword Research](tools/01-keyword-research.md) | Find profitable and intent-based keywords |
-| [Technical SEO](tools/02-technical-seo.md) | Crawl, audit, and fix site-level issues |
-| [Page Speed & Core Web Vitals](tools/03-page-speed.md) | Optimize performance and load times |
-| [On-Page Optimization](tools/04-on-page.md) | Improve content, headings, and structure |
-| [Structured Data](tools/05-structured-data.md) | Schema markup and validation tools |
-| [Backlinks & Authority](tools/06-backlinks.md) | Analyze and manage link profiles |
-| [Rank Tracking](tools/07-rank-tracking.md) | Monitor keyword positions |
-| [Local SEO](tools/08-local-seo.md) | Optimize and track local listings |
-| [Analytics & Reporting](tools/09-analytics.md) | Measure traffic and SEO performance |
-| [WordPress SEO](tools/10-wordpress.md) | Plugins & utilities for WordPress sites |
+| [Keyword Research](tools/keyword-research.md) | Find profitable and intent-based keywords |
+| [Technical SEO](tools/technical-seo.md) | Crawl, audit, and fix site-level issues |
+| [Page Speed & Core Web Vitals](tools/page-speed-core-web-vitals.md) | Optimize performance and load times |
+| [On-Page Optimization](tools/on-page-optimization.md) | Improve content, headings, and structure |
+| [Structured Data](tools/structured-data.md) | Schema markup and validation tools |
+| [Backlinks & Authority](tools/backlinks-authority.md) | Analyze and manage link profiles |
+| [Rank Tracking](tools/rank-tracking.md) | Monitor keyword positions |
+| [Local SEO](tools/local-seo.md) | Optimize and track local listings |
+| [Analytics & Reporting](tools/analytics-reporting.md) | Measure traffic and SEO performance |
+| [WordPress SEO](tools/wordpress-seo.md) | Plugins & utilities for WordPress sites |
 
 ---
 
