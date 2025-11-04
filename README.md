@@ -53,7 +53,7 @@ You can:
 ## 🧑‍💻 Author
 
 **Rizwan Akram**  
-🌐 [Website](https://rizwan.info) • 🐦 [Twitter](https://twitter.com/RizwanAkramSEO) • 💼 [LinkedIn](https://linkedin.com/in/rizwanakramseo)
+🌐 [Portfolio Website](https://rizwan.info) • 💼 [LinkedIn](https://linkedin.com/in/rizwanakramseo) • 𝕏 [Twitter](https://x.com/RizwanAkramSEO)
 
 ---
 
